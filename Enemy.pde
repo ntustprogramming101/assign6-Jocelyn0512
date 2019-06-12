@@ -19,4 +19,4 @@ class Enemy {
 		this.x = x;
 		this.y = y;
 	}
-}
+} 
